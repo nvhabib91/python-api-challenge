@@ -1,4 +1,4 @@
-City ID,City,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Country,Date
+,City,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Country,Date
 0,saskylakh,71.92,114.08,-10.92,91,100,7.3,RU,1584253399
 1,cape town,-33.93,18.42,19.44,72,20,8.2,ZA,1584253140
 2,ushuaia,-54.8,-68.3,12.0,66,40,2.53,AR,1584253399
